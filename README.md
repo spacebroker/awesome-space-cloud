@@ -22,7 +22,7 @@ All services should be open to cloud integration in some fashion (API etc) and c
 - [LEOLabs](https://www.leolabs.space/) - Satellite tracking and Space Situational Awareness as a service.
 
 ## Flight Dynamics
-- TBC
+- [Okapi Orbits](https://okapiorbits.space) - Several Services related to Orbit Prediction, Conjunctions and Manoeuvre planning.
 
 ## Ground Station Services
 - [LeafSpace](https://leaf.space) - Leaf Key & Leaf Line Ground Segment services for microsatellites
