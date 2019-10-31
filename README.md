@@ -1,5 +1,5 @@
 # Awesome Spaceflight Cloud Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome cloud services for spaceflight.
+A curated list of awesome cloud services for spaceflight. [View on Github Pages](https://spacebroker.github.io/awesome-space-cloud/)
 
 All services should be open to cloud integration in some fashion (API etc) and can be either free or paid.
 
